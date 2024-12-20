@@ -5,16 +5,16 @@ I am a **Data Analyst** with nearly 5 years of experience in leveraging data ana
 ---
 
 ## Skills
-|                             |                                           |
-|-----------------------------|-------------------------------------------|
-| **Programming & Analytics** | Python, R, SQL, SAS                       |
-| **Visualization Tools**     | Tableau, Power BI, Matplotlib, Seaborn    |
-| **Statistical Analysis**    | Hypothesis Testing, Minitab, MATLAB       |
-| **Database Management**     | MS Access, MySQL, SQLite                  |
-| **Collaboration Tools**     | JIRA, Confluence, SharePoint              |
-| **Version Control**         | Git                                       |
-| **Methodologies**           | Agile, Waterfall                          |
-| **Healthcare Platforms**    | NASCO 3270 mainframe                      |
+
+- **Programming & Analytics**: Python, R, SQL, SAS  
+- **Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn  
+- **Statistical Analysis**: Hypothesis Testing, Minitab, MATLAB  
+- **Database Management**: MS Access, MySQL, SQLite  
+- **Collaboration Tools**: JIRA, Confluence, SharePoint  
+- **Version Control**: Git  
+- **Methodologies**: Agile, Waterfall  
+- **Healthcare Platforms**: NASCO 3270 mainframe
+                   
 
 
 ---
