@@ -2,7 +2,7 @@ title: Revathi Putrevu
 #description: A brief description of your portfolio or personal site
 url: https://revathiputrevu.github.io/Portfolio/  # Replace with your actual GitHub Pages URL
 #baseurl: ""  # Leave this empty unless you are using a subpath
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minima
 #author: Your Name
 # Optional settings
 markdown: kramdown
