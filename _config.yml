@@ -1,5 +1,10 @@
 title: Revathi Putrevu
-#logo: 
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minima
+#description: A brief description of your portfolio or personal site
+url: https://revathiputrevu.github.io/Portfolio/  # Replace with your actual GitHub Pages URL
+#baseurl: ""  # Leave this empty unless you are using a subpath
+theme: modernist
+#author: Your Name
+# Optional settings
+markdown: kramdown
+permalink: pretty
+#paginate: 5  # Number of posts to display per page (if you have a blog section)
